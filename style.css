@@ -1,0 +1,16 @@
+site/
+  package.json
+  .eleventy.js
+  src/
+    _includes/
+      layout.njk
+      header.njk
+      nav.njk
+      footer.njk
+    _data/
+      site.json
+    assets/
+      styles.css
+    pages/
+      index.njk
+      about.njk
